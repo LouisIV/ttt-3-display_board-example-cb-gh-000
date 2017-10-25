@@ -6,4 +6,10 @@ def display_board
   print "|"
   puts "   "
   puts "-----------"
+  print "   "
+  print "|"
+  print "   "
+  print "|"
+  puts "   "
+  puts "-----------"
 end
