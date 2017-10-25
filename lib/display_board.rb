@@ -6,4 +6,5 @@ def display_board
   print "|"
   print "   "
   print "-----------"
+display_board
 end
